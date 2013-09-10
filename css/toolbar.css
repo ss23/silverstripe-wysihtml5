@@ -1,0 +1,13 @@
+.wysihtml5-editor-toolbar ul {
+	padding-bottom: 0px;
+	padding-left: 0px;
+	margin-bottom: 0px;
+	border: 1px solid #bbb;
+}
+
+.wysihtml5-editor-toolbar li {
+	display: inline;
+	cursor: pointer;
+	border-right: 1px solid #bbb;
+	padding: 0 18px 0 15px;
+}
