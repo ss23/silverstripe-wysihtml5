@@ -3,6 +3,11 @@ silverstripe-wysihtml5
 
 Implementation of xing/wysihtml5 as a SilverStripe form type
 
+Source
+======
+
+If anyone was wondering, this comes from [xing/wysihtml5](https://github.com/xing/wysihtml5) (which is a pretty sweet wysiwyg for simple things)
+
 Compatibility
 -------------
 
